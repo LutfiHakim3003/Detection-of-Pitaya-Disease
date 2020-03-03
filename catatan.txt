@@ -1,0 +1,2 @@
+Coba metode yang dipakai dengan case leaf
+Coba metode LBP, GLCM dan DWT
